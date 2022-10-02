@@ -1,0 +1,51 @@
+,city,city_state,z,score,label
+0,Gary,Gary Indiana,-1.313482013,1,0
+1,Port Arthur,Port Arthur Texas,-1.262623204,0,0
+2,Detroit,Detroit Michigan,-1.223281011,1,0
+3,Passaic,Passaic New Jersey,-1.174955454,0,0
+4,Newark,Newark New Jersey,-1.138656358,1,0
+5,Pine Bluff,Pine Bluff Arkansas,-1.138494894,0,0
+6,Flint,Flint Michigan,-1.137139618,1,0
+7,Camden,Camden New Jersey,-1.115457644,0,0
+8,Warren,Warren Ohio,-1.078486102,1,0
+9,Huntington Park,Huntington Park California,-1.074274423,0,0
+10,New Brunswick,New Brunswick New Jersey,-1.055939044,0,0
+11,Brownsville,Brownsville Texas,-1.055131887,1,0
+12,Hialeah,Hialeah Florida,-1.005240441,0,0
+13,Bell Gardens,Bell Gardens California,-0.995102994,0,0
+14,Union City,Union City New Jersey,-0.989855983,1,0
+15,Cicero,Cicero Illinois,-0.986095726,0,0
+16,Trenton,Trenton New Jersey,-0.970946459,1,0
+17,Albany,Albany Georgia,-0.953994085,0,0
+18,Paterson,Paterson New Jersey,-0.940875821,0,0
+19,Huntsville,Huntsville Texas,-0.938247094,0,0
+20,Lynwood,Lynwood California,-0.937492104,0,0
+21,El Monte,El Monte California,-0.93418427,0,0
+22,Hammond,Hammond Indiana,-0.931820992,0,0
+23,Huntington,Huntington West Virginia,-0.923491533,0,0
+24,North Miami,North Miami Florida,-0.922911734,1,0
+25,Youngstown,Youngstown Ohio,-0.909637391,0,0
+26,Cleveland,Cleveland Ohio,-0.897345912,1,0
+27,Miami Gardens,Miami Gardens Florida,-0.888008782,1,0
+28,West New York,West New York New Jersey,-0.86919205,1,0
+29,Plainfield,Plainfield New Jersey,-0.861854593,0,0
+30,Saginaw,Saginaw Michigan,-0.852879327,0,0
+31,Jackson,Jackson Mississippi,-0.8491331,1,0
+32,North Miami Beach,North Miami Beach Florida,-0.845966877,1,0
+33,Fort Pierce,Fort Pierce Florida,-0.845395963,0,0
+34,Anderson,Anderson Indiana,-0.845391917,0,0
+35,Palmdale,Palmdale California,-0.843955831,0,0
+36,Hallandale Beach,Hallandale Beach Florida,-0.836463929,0,0
+37,Reading,Reading Pennsylvania,-0.836327066,1,0
+38,Harlingen,Harlingen Texas,-0.821415692,0,0
+39,Montebello,Montebello California,-0.820452591,0,0
+40,Compton,Compton California,-0.817658483,1,0
+41,San Bernardino,San Bernardino California,-0.80998371,0,0
+42,Mansfield,Mansfield Ohio,-0.796485963,0,0
+43,Hemet,Hemet California,-0.795755944,0,0
+44,Shreveport,Shreveport Louisiana,-0.787546173,0,0
+45,Danville,Danville Virginia,-0.781265073,0,0
+46,Macon-Bibb County,Macon-Bibb County Georgia,-0.778187032,0,0
+47,Pasadena,Pasadena Texas,-0.775314785,1,0
+48,St. Louis,St. Louis Missouri,-0.770338598,1,0
+49,Lancaster,Lancaster California,-0.767708365,1,0
